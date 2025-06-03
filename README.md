@@ -1,7 +1,7 @@
 # Pharos Testnet BOT
 Pharos Testnet BOT
 
-- Register Here : [Pharos Testnet](https://testnet.pharosnetwork.xyz/experience?inviteCode=PNFXEcz1CWezuu3g)
+- Register Here : [Pharos Testnet](https://testnet.pharosnetwork.xyz/experience?inviteCode=NUIWhceZMejyczmJ)
 - Connect New Wallet
 - Connect X & Discord Account
 
