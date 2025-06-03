@@ -30,7 +30,7 @@ Pharos Testnet BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/PharosTestnet-BOT.git
+   git clone https://github.com/ashtrobe/PharosTestnet-BOT
    ```
    ```bash
    cd PharosTestnet-BOT
