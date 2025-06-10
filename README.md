@@ -1,7 +1,7 @@
 # Pharos Testnet BOT
 Pharos Testnet BOT
 
-- Register Here : [Pharos Testnet](https://testnet.pharosnetwork.xyz/experience?inviteCode=NUIWhceZMejyczmJ)
+- Register Here : [Pharos Testnet](https://testnet.pharosnetwork.xyz/experience?inviteCode=MgZOgOK0o97qIM2X)
 - Connect New Wallet
 - Connect X & Discord Account
 
@@ -30,10 +30,10 @@ Pharos Testnet BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/ashtrobe/PharosTestnet-BOT
+   git clone https://github.com/stsrebel/Pharos-Bot.git
    ```
    ```bash
-   cd PharosTestnet-BOT
+   cd Pharos-Bot
    ```
 
 2. **Install Requirements:**
